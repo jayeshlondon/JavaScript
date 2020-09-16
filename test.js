@@ -11,5 +11,6 @@ console.log(typeof(9));
 
 var a;
 a++;
+a--;
 console.log(a);
 
